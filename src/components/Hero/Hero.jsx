@@ -14,7 +14,7 @@ const Hero = () => {
                         Tasty Organic <span className='text-orange-500'>Fruits</span> & <span className='text-orange-500'>Veggies</span> In Your City</h1>
                     <p className='text-zinc-800 md:text-xl text-md max-w-[530px mt-3 mb-8 '>Bred for a high content of beneficial substances. Our products are  all  fresh and healthy.
                     </p>
-                    <Button content="Shop Now"/>
+                    <Button content="Shop Now"/>~
                 </div>
                 {/* hero image */}
 
